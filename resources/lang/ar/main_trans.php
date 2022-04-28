@@ -1,0 +1,61 @@
+<?php
+
+return[
+    'Home'=>'الرئيسية',
+    'change_language'=>'اللغة',
+    'Users'=>'المشرفين',
+    'First Name'=>'الاسم الاول',
+    'last Name'=>'الاسم الاخير',
+    'Email'=>'البريد الالكتروني',
+    'Actions'=>'العمليات',
+    'edit'=>'تعديل',
+    'delete'=>'حذف',
+    'sorry there is no any data'=>'للاسف لايوجد بيانات',
+    'search'=>'بحث',
+    'Add'=>'اضف',
+    'password'=>'كلمة المرور',
+    'password-confirmation'=>'تاكيد كلمة المرور',
+    'Success'=>'تم الاضافة بنجاح',
+    'Added Successfully'=>'تم الاضافة بنجاح',
+    'create'=>'اضافة',
+    'read'=>'قراءة',
+    'update'=>'تعديل',
+    'permission'=>'الصلاحيات',
+    'image'=>'الصورة',
+    'Categories'=>'الاقسام',
+    'Name'=>'الاسم',
+    'Name Arabic'=>'الاسم باللغة العربية',
+    'products'=>'المنتجات',
+    'sale_price'=>'سعر البيع',
+    'per_price'=>'سعر الشراء',
+    'description'=>'الوصف',
+    'stock'=>'المخزن',
+    'Category'=>'القسم',
+    'All Categories'=>'كل الاقسام',
+    'profit'=>'المكسب',
+    'product_count'=>'عدد المنتجات',
+    'clients'=>'العملاء',
+    'phone'=>'التلفون',
+    'address'=>'العنوان',
+    'Name IN Arabic'=>'الاسم باللغة العربية',
+    'address in arabic'=>'العنوان باللغة العربية',
+    'Related products'=>'المنتجات المرتبطة',
+    'orders'=>'الطلبات',
+    'add_order'=>'اضافة طلب',
+    'quantity'=>'الكمية',
+    'price'=>'السعر',
+    'total'=>'المجموع ',
+    'previous_orders'=>'الطلبات السابقة',
+    'no_records'=>'لايوجد اي بيانات',
+    'add'=>'اضف',
+    'Point Of Sale'=>'برنامج المبيعات',
+    'Statistics'=>'الاحصائيات',
+    'Permissions'=>'الصلاحيات',
+
+
+
+
+
+
+
+];
